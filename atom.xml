@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leklearn/github.io/</id>
     <title>Gridea</title>
-    <updated>2021-09-24T02:28:59.462Z</updated>
+    <updated>2021-09-24T02:36:28.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leklearn/github.io/"/>
     <link rel="self" href="https://leklearn/github.io/atom.xml"/>
@@ -11,35 +11,57 @@
     <icon>https://leklearn/github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://leklearn/github.io/post/hello-gridea/</id>
-        <link href="https://leklearn/github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[Windows常用快捷键和dos常用指令]]></title>
+        <id>https://leklearn/github.io/post/windows-chang-yong-kuai-jie-jian-he-dos-chang-yong-zhi-ling/</id>
+        <link href="https://leklearn/github.io/post/windows-chang-yong-kuai-jie-jian-he-dos-chang-yong-zhi-ling/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2021-09-24T02:30:27.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="windows常用快捷键">windows常用快捷键</h1>
+<p>Ctrl+c 复制</p>
+<p>Ctrl+v 拷贝</p>
+<p>Ctrl+a 全选</p>
+<p>Ctrl+z 撤销</p>
+<p>Ctrl+x 剪切</p>
+<p>Ctrl+s 保存</p>
+<p>Alt+F4 关闭窗口</p>
+<p>Windows+r 输入cmd回车打开命令窗口</p>
+<p>Windows+e 打开我的电脑</p>
+<p>Ctrl+Shifit+Esc打开任务管理器</p>
+<p>Shift+Delete 永久删除</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<h1 id="windows常用快捷键">windows常用快捷键</h1>
+<p>Ctrl+c 复制</p>
+<p>Ctrl+v 拷贝</p>
+<p>Ctrl+a 全选</p>
+<p>Ctrl+z 撤销</p>
+<p>Ctrl+x 剪切</p>
+<p>Ctrl+s 保存</p>
+<p>Alt+F4 关闭窗口</p>
+<p>Windows+r 输入cmd回车打开命令窗口</p>
+<p>Windows+e 打开我的电脑</p>
+<p>Ctrl+Shifit+Esc打开任务管理器</p>
+<p>Shift+Delete 永久删除</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<h1 id="进入命令窗口的方法">进入命令窗口的方法</h1>
+<p>1.windows+r输入cmd回车</p>
+<p>2.资源管理器地址栏加上cmd路径</p>
+<p>3.在任意文件夹下面按shift+鼠标右键点击，在此处打开命令窗口</p>
+<p>基本Dos命令<br>
+1.切换盘符 d: (盘的位置加英文冒号）</p>
+<p>2.清屏 cls</p>
+<p>3.退出命令行窗口 exit</p>
+<p>4.查看当前目录所有文件 dir</p>
+<p>5.返回上级目录 cd..</p>
+<p>6.进入指定文件夹 cd目录（cd加上你要进入的目录）</p>
+<p>7.查看电脑IP ipconfig</p>
+<p>8.打开应用 计算机  calc</p>
+<p>画画本 mspaint</p>
+<p>记事本 notepad</p>
+<p>9.获得网址IP信息 ping加上网址</p>
+<p>10.创建文件夹 在桌面的目录下输入md test</p>
+<p>在文件夹里面创建文本cd &gt;a.txt</p>
+<p>删除 del a.txt</p>
+<p>删除文件夹 rd test</p>
 ]]></content>
     </entry>
 </feed>
